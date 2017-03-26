@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DanielWebDev/2017-okcoders-day-1-redux/issues"
   },
-  "homepage": "https://github.com/DanielWebDev/2017-okcoders-day-1-redux#readme"
+  "homepage": "https://github.com/DanielWebDev/2017-okcoders-day-1-redux#readme",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
 }
